@@ -19,5 +19,3 @@ jjjjjji
 
 
 llllllll
-
-tttt
